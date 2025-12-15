@@ -79,3 +79,5 @@ After testing Linear, Ridge, Lasso, and Ensemble models, **XGBoost** was selecte
   * `app.py`: Streamlit application file with custom CSS styling.
   * `model.pkl` & `scaler.pkl`: Serialized model and scaler for deployment.
   * `solarpowergeneration.csv`: The raw dataset used for training.
+
+project done by :Nakka Srihitha
